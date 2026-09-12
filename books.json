@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Aqaed Khurasani",
+    "author": "Author Name",
+    "language": "Urdu",
+    "pdfUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/khurasani/AqaedKhurasani.pdf",
+    "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/aqayid.png"
+  },
+  {
+    "id": "2",
+    "title": "Behar-ul-Anwar (Vol 1)",
+    "author": "Allama Majlisi",
+    "language": "Urdu",
+    "pdfUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/book_bahar/Behar1of12.pdf",
+    "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/bahar_1.png"
+  }
+]
