@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Aqaed Khurasani",
-    "author": "Ayatullah Wahid Khurasani",
+    "author": "Author Name",
     "language": "Urdu",
     "pdfUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/khurasani/AqaedKhurasani.pdf",
     "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/aqayid.png"
@@ -12,7 +12,7 @@
     "title": "Behar-ul-Anwar (Vol 1)",
     "author": "Allama Majlisi",
     "language": "Urdu",
-    "pdfUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/book_bahar/Behar1of12.pdf",
+    "pdfUrl": "http://hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar1of12.pdf",
     "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/bahar_1.png"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Behar-ul -Anwar (Vol-2)",
     "language": "Urdu",
     "author": "Allama Majlisi",
-    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar2of12.pdf",
+    "pdfUrl": "http://hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar2of12.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_2.png"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Behar-ul -Anwar (Vol 3)",
     "author": "Allama Majlisi",
     "language": "Urdu",
-    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar3of12.pdf",
+    "pdfUrl": "https://cms.hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar3of12.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_3.png"
   },
   {
@@ -39,4 +39,11 @@
     "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/4imam/Urdu- Aaina E Huqooq Urdu Tarjuma Sharh E Resalat.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/sajad/ayina_haqoq.png"
   },
+  {
+    "id": "6",
+    "author": "Allama Majlisi",
+    "language": "Urdu",
+    "pdfUrl": "https://cms.hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar4of12.pdf",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.png"
+  }
 ]
