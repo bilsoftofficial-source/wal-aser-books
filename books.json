@@ -41,9 +41,16 @@
   },
   {
     "id": "6",
+    "author": "Syed Ali al-Husayni Khamenei",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=14TkJsIT06DGfEXPBKdCBCZ_hg4y9-RXW",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/rehbar/rehbar_deep_namaz.jpg"
+  }
+    {
+    "id": "7",
     "author": "Allama Majlisi",
     "language": "Urdu",
     "pdfUrl": "https://cms.hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar4of12.pdf",
-    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.png"
-  }
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.jpg"
+    }
 ]
