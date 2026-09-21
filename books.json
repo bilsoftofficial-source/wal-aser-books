@@ -2,9 +2,9 @@
   {
     "id": "1",
     "title": "Aqaed Khurasani",
-    "author": "Author Name",
+    "author": "Ayatullah Wahid Khurasani",
     "language": "Urdu",
-    "pdfUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/khurasani/AqaedKhurasani.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/khurasani/AqaedKhurasani.pdf",
     "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/aqayid.png"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Behar-ul-Anwar (Vol 1)",
     "author": "Allama Majlisi",
     "language": "Urdu",
-    "pdfUrl": "http://hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar1of12.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar1of12.pdf",
     "coverUrl": "https://raw.githubusercontent.com/bilsoftofficial-source/wal-aser-books/main/covers/bahar_1.png"
   },
   {
@@ -20,37 +20,46 @@
     "title": "Behar-ul -Anwar (Vol-2)",
     "language": "Urdu",
     "author": "Allama Majlisi",
-    "pdfUrl": "http://hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar2of12.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar2of12.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_2.png"
   },
   {
     "id": "4",
-    "title": "Behar-ul -Anwar (Vol 3)",
+    "title": "Behar-ul -Anwar (Vol-3)",
     "author": "Allama Majlisi",
     "language": "Urdu",
-    "pdfUrl": "https://cms.hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar3of12.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar3of12.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_3.png"
   },
   {
     "id": "5",
-    "title": "Ayina Haqoq with Sharah",
-    "author": "Imam Zain Ul Abdeen as",
+    "title": "Ayina Haqoq with Sharh Resale Haqoq",
+    "author": "Quadrat Ul Allah Mashaki",
     "language": "Urdu",
-    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/4imam/Urdu- Aaina E Huqooq Urdu Tarjuma Sharh E Resalat.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/sajad/Urdu- Aaina E Huqooq Urdu Tarjuma Sharh E Resalat Ul Huqooq آئینہ حقوق-شرح رسالہ حقوق-مشایخی #- by Imam Zainul Abideen.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/sajad/ayina_haqoq.png"
   },
   {
     "id": "6",
-    "author": "Syed Ali al-Husayni Khamenei",
-    "language": "Urdu",
-    "pdfUrl": "https://drive.google.com/uc?export=download&id=14TkJsIT06DGfEXPBKdCBCZ_hg4y9-RXW",
-    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/rehbar/rehbar_deep_namaz.jpg"
-  },
-    {
-    "id": "7",
     "author": "Allama Majlisi",
     "language": "Urdu",
-    "pdfUrl": "https://cms.hubeali.com/books/Urdu-Books/Behar-ul-Anwaar/Behar4of12.pdf",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar4of12.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.jpg"
-    }
+  },
+  {
+    "id": "7",
+    "title": "Lesson From The Holy Prophet of Islam as",
+    "author": "Sh. Syed Ali Al Hussaini Khamenei",
+    "language": "English",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/khamenei/پیامبر انگلیسی.pdf",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/rehbar/holy_massanger_rehbar.jpg"
+  },
+  {
+    "id": "8",
+    "title": "",
+    "author": "Sh. Syed Ali Al Hussaini Khamenei",
+    "language": "Urdu",
+    "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/khamenei/Namaz ki Gehraeeyan.pdf",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/rehbar/rehbar_deep_namaz.jpg"
+  }
 ]
