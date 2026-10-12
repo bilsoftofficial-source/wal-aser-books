@@ -44,7 +44,8 @@
     "author": "Allama Majlisi",
     "language": "Urdu",
     "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/book_bahar/Behar4of12.pdf",
-    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.jpg"
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/bahar_4.jpg",
+    "title": "Behar Ul Anwar Vol -4"
   },
   {
     "id": "7",
@@ -56,10 +57,66 @@
   },
   {
     "id": "8",
-    "title": "",
-    "author": "Sh. Syed Ali Al Hussaini Khamenei",
+    "title": "Namaz ki Gahraeeyan",
+    "author": "شہید رہبر سید علی الحسین خامنہ ای",
     "language": "Urdu",
     "pdfUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/khamenei/Namaz ki Gehraeeyan.pdf",
     "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/rehbar/rehbar_deep_namaz.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Asooli-e- Kafi Vol-1",
+    "author": "Shiakh  Mohd. Yaqoob Kaleni (ra)",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=156b9bQyNX0HE7rsquKdBw7HeQhJJLVYE&export=download&authuser=0",
+    "language": "Urdu",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/asul_1.png"
+  },
+  {
+    "id": "10",
+    "title": "Asooli-e-Kafi Vol-2",
+    "author": "Shiakh  Mohd. Yaqoob Kaleni (ra)",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=15CoWQbVofLAZYd1oX4i_TfivZ6780kvw&export=download&authuser=0",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/asul_2.png"
+  },
+  {
+    "id": "11",
+    "title": "Encyclopedia of Imam Ali (as)",
+    "author": "علامہ محمد الری شھری",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=15_Af_eyTDzmt4gsI1s1NttvowqLTaQko&export=download&authuser=0",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/encyclopedia_imamali.jpg"
+  },
+  {
+    "id": "12",
+    "title": "تقویٰ",
+    "author": "شهيد مرتضیٰ مطہری",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=16AFSwVoRU44igDh6dLfMwNJtQfSDuaBR",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/taqwa.jpg"
+  },
+  {
+    "id": "13",
+    "title": "امام علی و  حسرتِ انصار",
+    "author": "سید جواد نقوی ",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=15mVSQkHtnB_F5pDU2Y7JshoWs2Ch-QUh",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/imamali_wa_ansar.jpg"
+  },
+  {
+    "id": "14",
+    "title": "امام غیبت اور ہماری زمہ داری ",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=15VADGirJEr9uqzvIUSCb7tK1hCCM4SCU",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/imam_zamna_atfs.jpg",
+    "author": "چند محققین"
+  },
+  {
+    "id": "15",
+    "title": "انسان اور ایمان ",
+    "author": "شہید مرتضی مطہری ",
+    "language": "Urdu",
+    "pdfUrl": "https://drive.google.com/uc?export=download&id=15oUqkKvWdlfKFmzjqc4YqNMPiUSm89Nw",
+    "coverUrl": "https://github.com/bilsoftofficial-source/wal-aser-books/raw/refs/heads/main/covers/insan_aur_emaan.jpg"
   }
 ]
